@@ -4,4 +4,4 @@ Scripts and shape files to quickly generate an interactive map with postcodes ad
 
 ## Example 
 
-<img src="https://github.com/DanielGardiner/QuickMap/blob/master/README%20IMAGES/quickmap_ex1.png" width="800" height="400" />
+<img src="https://github.com/DanielGardiner/QuickMap/blob/master/README%20IMAGES/quickmap_ex1.png" width="600" height="800" />
